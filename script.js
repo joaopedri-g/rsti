@@ -1,5 +1,2 @@
-class name{
-
-
-
-}
+const valor = 10;
+console.log(valor);
